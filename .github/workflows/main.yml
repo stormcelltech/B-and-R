@@ -27,6 +27,3 @@ jobs:
         username: ${{ secrets.MAIN_FTP_USERNAME }}
         port: ${{ secrets.MAIN_PORT }}
         password: ${{ secrets.MAIN_FTP_PASSWORD }}
-        script: |
-          cd public_html
-          sh ./.scripts/deploy.sh
