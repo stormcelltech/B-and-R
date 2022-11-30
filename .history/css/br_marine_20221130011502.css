@@ -1,0 +1,40 @@
+.color_pallette{
+	background-color:#ffc900 ;
+	background-color:#003478 ;
+	background-color:#2377dd;
+	background-color:#002352 ;
+
+}
+ul.navbar-nav > li:hover > a{
+	color: #ffc900;
+}
+
+.custom_h3{
+	font-size: 15px;
+	line-height: 1;
+}
+.custom_supply{
+	text-transform:capitalize !important;
+	font-weight: normal !important;
+	font-size: 20px !important;
+}
+.custom-learn-more:hover{
+	background-color: #2377dd !important;
+	color: #ffffff !important;
+	border: none !important;
+}
+.custom_serv{
+	font-size: 14px !important;
+}
+.custom-p{
+	text-align: justify !important;
+}
+
+@media (max-width: 360px) {
+	.custom-learn-more{
+		margin-top: 100px !important;
+	}
+	.custom_product_slider{
+		font-size: 30px !important;
+	}
+  }

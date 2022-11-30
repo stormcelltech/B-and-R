@@ -19,8 +19,8 @@ ul.navbar-nav > li:hover > a{
 	font-size: 20px !important;
 }
 .custom-learn-more:hover{
-	background-color: #2377dd !important;
-	color: #ffffff !important;
+	background-color: #ffc900 !important;
+	color: #000000 !important;
 	border: none !important;
 }
 .custom_serv{
@@ -29,3 +29,12 @@ ul.navbar-nav > li:hover > a{
 .custom-p{
 	text-align: justify !important;
 }
+
+@media (max-width: 360px) {
+	.custom-learn-more{
+		margin-top: 100px !important;
+	}
+	.custom_product_slider{
+		font-size: 30px !important;
+	}
+  }

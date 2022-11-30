@@ -70,8 +70,9 @@ Slider
       height: 400px;
    }
    .cd-hero-slider h2 {
-     font-size: 2em !important;
+     font-size: 1.9em !important;
    }
+  
    .cd-hero-slider h3, .cd-hero-slider p{
       display: none;
    }
@@ -86,7 +87,7 @@ Slider
 
 
    .cd-hero-slider .cd-btn{
-      margin-top: 10px !important;
+      margin-top: -9px !important;
    }
 
    .cd-slider-nav a i {
@@ -495,7 +496,7 @@ Slider navigation
 
 .cd-slider-nav ul li a{
    background: rgba(0,0,0,.3);
-   margin-right: 5px;
+   margin-right: 20px;
 }
 
 .cd-slider-nav ul li.selected a{
