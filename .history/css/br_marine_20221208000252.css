@@ -37,7 +37,7 @@ ul.navbar-nav > li:hover > a{
 @media (max-width: 360px) {
 	.custom-learn-more{
 		margin-top: 100px !important;
-	
+		width: 100px;
 	}
 	.custom_product_slider{
 		font-size: 30px !important;

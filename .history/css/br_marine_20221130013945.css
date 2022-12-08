@@ -18,10 +18,6 @@ ul.navbar-nav > li:hover > a{
 	font-weight: normal !important;
 	font-size: 20px !important;
 }
-.custom-learn-more{
-	padding: 10px !important;
-	width: 200px !important;
-}
 .custom-learn-more:hover{
 	background-color: #ffc900 !important;
 	color: #000000 !important;
@@ -37,7 +33,6 @@ ul.navbar-nav > li:hover > a{
 @media (max-width: 360px) {
 	.custom-learn-more{
 		margin-top: 100px !important;
-	
 	}
 	.custom_product_slider{
 		font-size: 30px !important;
